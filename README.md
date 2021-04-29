@@ -23,9 +23,8 @@ requirements는 [GitHub - SKTBrain/KoBERT](https://github.com/SKTBrain/KoBERT), 
   vocab_files = self.save_vocabulary(save_directory) # 수정
   ```
 
-  * Transformers와 sentence_transformers는 링크를 첨부합니다. 다운로드 후 SentenceEmbedding폴더에 넣어 사용하시면 되겠습니다.
-  * [huggingface transformers 수정본](https://drive.google.com/drive/folders/1d-EPl7cIsLisiRzUZ1ijHKmxETWC-oF2?usp=sharing)
-  * [sentence_transformers 수정본](https://drive.google.com/drive/folders/1hwK1DOMqGAzMv7vjBjlPMmn8bU7Rhoqv?usp=sharing)
+  * Transformers와 sentence_transformers는 다운로드 링크를 첨부합니다. 다운로드 후 SentenceEmbedding폴더에 넣어 사용하시면 되겠습니다.
+  * [다운로드 링크](https://drive.google.com/drive/folders/15npVjBbTGNiImnkxq8lm5dkH3Jc28A2R?usp=sharing)
 
 # Train Models
 
